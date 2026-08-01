@@ -13,6 +13,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Yashd-2005/DSA-Practice/tree/master/0050-powx-n) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yashd-2005/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/Yashd-2005/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 ## Number Theory
@@ -49,4 +50,8 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yashd-2005/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Yashd-2005/DSA-Practice/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
