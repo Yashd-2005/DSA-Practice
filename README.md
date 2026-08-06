@@ -23,6 +23,7 @@
 | [0050-powx-n](https://github.com/Yashd-2005/DSA-Practice/tree/master/0050-powx-n) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yashd-2005/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/Yashd-2005/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Yashd-2005/DSA-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -81,4 +82,8 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Yashd-2005/DSA-Practice/tree/master/0056-merge-intervals) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Yashd-2005/DSA-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
