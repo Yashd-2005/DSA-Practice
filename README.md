@@ -89,4 +89,8 @@
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Yashd-2005/DSA-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
+## Database
+|  |
+| ------- |
+| [0184-department-highest-salary](https://github.com/Yashd-2005/DSA-Practice/tree/master/0184-department-highest-salary) |
 <!---LeetCode Topics End-->
