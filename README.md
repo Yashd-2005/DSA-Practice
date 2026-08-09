@@ -92,5 +92,6 @@
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/Yashd-2005/DSA-Practice/tree/master/0175-combine-two-tables) |
 | [0184-department-highest-salary](https://github.com/Yashd-2005/DSA-Practice/tree/master/0184-department-highest-salary) |
 <!---LeetCode Topics End-->
