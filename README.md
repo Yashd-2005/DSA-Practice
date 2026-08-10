@@ -97,5 +97,6 @@
 | [0184-department-highest-salary](https://github.com/Yashd-2005/DSA-Practice/tree/master/0184-department-highest-salary) |
 | [1484-group-sold-products-by-the-date](https://github.com/Yashd-2005/DSA-Practice/tree/master/1484-group-sold-products-by-the-date) |
 | [1693-daily-leads-and-partners](https://github.com/Yashd-2005/DSA-Practice/tree/master/1693-daily-leads-and-partners) |
+| [1729-find-followers-count](https://github.com/Yashd-2005/DSA-Practice/tree/master/1729-find-followers-count) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/Yashd-2005/DSA-Practice/tree/master/1741-find-total-time-spent-by-each-employee) |
 <!---LeetCode Topics End-->
