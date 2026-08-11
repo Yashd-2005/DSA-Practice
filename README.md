@@ -35,6 +35,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Yashd-2005/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Yashd-2005/DSA-Practice/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Yashd-2005/DSA-Practice/tree/master/0242-valid-anagram) |
 | [2965-find-missing-and-repeated-values](https://github.com/Yashd-2005/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yashd-2005/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Yashd-2005/DSA-Practice/tree/master/3731-find-missing-elements) |
@@ -52,6 +53,7 @@
 | [0075-sort-colors](https://github.com/Yashd-2005/DSA-Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Yashd-2005/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Yashd-2005/DSA-Practice/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Yashd-2005/DSA-Practice/tree/master/0242-valid-anagram) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yashd-2005/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Yashd-2005/DSA-Practice/tree/master/3731-find-missing-elements) |
 ## Counting
@@ -113,4 +115,5 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Yashd-2005/DSA-Practice/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Yashd-2005/DSA-Practice/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
