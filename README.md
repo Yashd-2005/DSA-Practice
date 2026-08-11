@@ -98,6 +98,7 @@
 | [0184-department-highest-salary](https://github.com/Yashd-2005/DSA-Practice/tree/master/0184-department-highest-salary) |
 | [0577-employee-bonus](https://github.com/Yashd-2005/DSA-Practice/tree/master/0577-employee-bonus) |
 | [1068-product-sales-analysis-i](https://github.com/Yashd-2005/DSA-Practice/tree/master/1068-product-sales-analysis-i) |
+| [1280-students-and-examinations](https://github.com/Yashd-2005/DSA-Practice/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Yashd-2005/DSA-Practice/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1484-group-sold-products-by-the-date](https://github.com/Yashd-2005/DSA-Practice/tree/master/1484-group-sold-products-by-the-date) |
 | [1693-daily-leads-and-partners](https://github.com/Yashd-2005/DSA-Practice/tree/master/1693-daily-leads-and-partners) |
