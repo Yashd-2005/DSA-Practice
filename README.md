@@ -17,6 +17,7 @@
 | [0169-majority-element](https://github.com/Yashd-2005/DSA-Practice/tree/master/0169-majority-element) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yashd-2005/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/Yashd-2005/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yashd-2005/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Yashd-2005/DSA-Practice/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -35,6 +36,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Yashd-2005/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Yashd-2005/DSA-Practice/tree/master/0169-majority-element) |
 | [2965-find-missing-and-repeated-values](https://github.com/Yashd-2005/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yashd-2005/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Yashd-2005/DSA-Practice/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
@@ -50,6 +52,7 @@
 | [0075-sort-colors](https://github.com/Yashd-2005/DSA-Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Yashd-2005/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Yashd-2005/DSA-Practice/tree/master/0169-majority-element) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yashd-2005/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Yashd-2005/DSA-Practice/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
