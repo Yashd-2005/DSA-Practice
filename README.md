@@ -71,6 +71,7 @@
 | [0018-4sum](https://github.com/Yashd-2005/DSA-Practice/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Yashd-2005/DSA-Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Yashd-2005/DSA-Practice/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Yashd-2005/DSA-Practice/tree/master/0125-valid-palindrome) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -108,4 +109,8 @@
 | [1693-daily-leads-and-partners](https://github.com/Yashd-2005/DSA-Practice/tree/master/1693-daily-leads-and-partners) |
 | [1729-find-followers-count](https://github.com/Yashd-2005/DSA-Practice/tree/master/1729-find-followers-count) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/Yashd-2005/DSA-Practice/tree/master/1741-find-total-time-spent-by-each-employee) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Yashd-2005/DSA-Practice/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
