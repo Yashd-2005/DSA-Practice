@@ -96,6 +96,7 @@
 | [0182-duplicate-emails](https://github.com/Yashd-2005/DSA-Practice/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/Yashd-2005/DSA-Practice/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/Yashd-2005/DSA-Practice/tree/master/0184-department-highest-salary) |
+| [1068-product-sales-analysis-i](https://github.com/Yashd-2005/DSA-Practice/tree/master/1068-product-sales-analysis-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Yashd-2005/DSA-Practice/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1484-group-sold-products-by-the-date](https://github.com/Yashd-2005/DSA-Practice/tree/master/1484-group-sold-products-by-the-date) |
 | [1693-daily-leads-and-partners](https://github.com/Yashd-2005/DSA-Practice/tree/master/1693-daily-leads-and-partners) |
