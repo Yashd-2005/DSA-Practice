@@ -105,6 +105,7 @@
 | [0184-department-highest-salary](https://github.com/Yashd-2005/DSA-Practice/tree/master/0184-department-highest-salary) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Yashd-2005/DSA-Practice/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/Yashd-2005/DSA-Practice/tree/master/0577-employee-bonus) |
+| [0585-investments-in-2016](https://github.com/Yashd-2005/DSA-Practice/tree/master/0585-investments-in-2016) |
 | [1068-product-sales-analysis-i](https://github.com/Yashd-2005/DSA-Practice/tree/master/1068-product-sales-analysis-i) |
 | [1280-students-and-examinations](https://github.com/Yashd-2005/DSA-Practice/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Yashd-2005/DSA-Practice/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
