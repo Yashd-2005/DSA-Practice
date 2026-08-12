@@ -99,6 +99,7 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Yashd-2005/DSA-Practice/tree/master/0175-combine-two-tables) |
+| [0177-nth-highest-salary](https://github.com/Yashd-2005/DSA-Practice/tree/master/0177-nth-highest-salary) |
 | [0182-duplicate-emails](https://github.com/Yashd-2005/DSA-Practice/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/Yashd-2005/DSA-Practice/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/Yashd-2005/DSA-Practice/tree/master/0184-department-highest-salary) |
