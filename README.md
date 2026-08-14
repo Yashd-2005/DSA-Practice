@@ -39,6 +39,7 @@
 | [0242-valid-anagram](https://github.com/Yashd-2005/DSA-Practice/tree/master/0242-valid-anagram) |
 | [2965-find-missing-and-repeated-values](https://github.com/Yashd-2005/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yashd-2005/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/Yashd-2005/DSA-Practice/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Yashd-2005/DSA-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/Yashd-2005/DSA-Practice/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
@@ -121,6 +122,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/Yashd-2005/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Yashd-2005/DSA-Practice/tree/master/0242-valid-anagram) |
+| [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/Yashd-2005/DSA-Practice/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Yashd-2005/DSA-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
