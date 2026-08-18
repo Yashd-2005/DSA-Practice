@@ -84,6 +84,7 @@
 | [0088-merge-sorted-array](https://github.com/Yashd-2005/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Yashd-2005/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Yashd-2005/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
+| [0443-string-compression](https://github.com/Yashd-2005/DSA-Practice/tree/master/0443-string-compression) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -130,6 +131,7 @@
 | [0125-valid-palindrome](https://github.com/Yashd-2005/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Yashd-2005/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Yashd-2005/DSA-Practice/tree/master/0242-valid-anagram) |
+| [0443-string-compression](https://github.com/Yashd-2005/DSA-Practice/tree/master/0443-string-compression) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Yashd-2005/DSA-Practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/Yashd-2005/DSA-Practice/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Yashd-2005/DSA-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
