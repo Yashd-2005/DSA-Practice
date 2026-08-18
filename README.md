@@ -130,6 +130,7 @@
 | [0125-valid-palindrome](https://github.com/Yashd-2005/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Yashd-2005/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Yashd-2005/DSA-Practice/tree/master/0242-valid-anagram) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Yashd-2005/DSA-Practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/Yashd-2005/DSA-Practice/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Yashd-2005/DSA-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
@@ -141,4 +142,12 @@
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Yashd-2005/DSA-Practice/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Stack
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Yashd-2005/DSA-Practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Simulation
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Yashd-2005/DSA-Practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
