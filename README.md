@@ -22,6 +22,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Yashd-2005/DSA-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/Yashd-2005/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yashd-2005/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Yashd-2005/DSA-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3731-find-missing-elements](https://github.com/Yashd-2005/DSA-Practice/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -152,4 +153,5 @@
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Yashd-2005/DSA-Practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Yashd-2005/DSA-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
