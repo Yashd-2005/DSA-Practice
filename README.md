@@ -9,6 +9,7 @@
 | [0015-3sum](https://github.com/Yashd-2005/DSA-Practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Yashd-2005/DSA-Practice/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Yashd-2005/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Yashd-2005/DSA-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Yashd-2005/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Yashd-2005/DSA-Practice/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Yashd-2005/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
@@ -161,6 +162,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Yashd-2005/DSA-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Yashd-2005/DSA-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Ternary Search
 |  |
