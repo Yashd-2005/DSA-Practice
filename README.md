@@ -22,6 +22,7 @@
 | [0169-majority-element](https://github.com/Yashd-2005/DSA-Practice/tree/master/0169-majority-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Yashd-2005/DSA-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Yashd-2005/DSA-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/Yashd-2005/DSA-Practice/tree/master/0875-koko-eating-bananas) |
 | [1550-three-consecutive-odds](https://github.com/Yashd-2005/DSA-Practice/tree/master/1550-three-consecutive-odds) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yashd-2005/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Yashd-2005/DSA-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -170,6 +171,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Yashd-2005/DSA-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Yashd-2005/DSA-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Yashd-2005/DSA-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/Yashd-2005/DSA-Practice/tree/master/0875-koko-eating-bananas) |
 ## Ternary Search
 |  |
 | ------- |
