@@ -25,6 +25,7 @@
 | [0875-koko-eating-bananas](https://github.com/Yashd-2005/DSA-Practice/tree/master/0875-koko-eating-bananas) |
 | [1550-three-consecutive-odds](https://github.com/Yashd-2005/DSA-Practice/tree/master/1550-three-consecutive-odds) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yashd-2005/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Yashd-2005/DSA-Practice/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Yashd-2005/DSA-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/Yashd-2005/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yashd-2005/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -106,6 +107,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Yashd-2005/DSA-Practice/tree/master/0011-container-with-most-water) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Yashd-2005/DSA-Practice/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Quicksort
 |  |
 | ------- |
@@ -172,6 +174,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Yashd-2005/DSA-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Yashd-2005/DSA-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Yashd-2005/DSA-Practice/tree/master/0875-koko-eating-bananas) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Yashd-2005/DSA-Practice/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Ternary Search
 |  |
 | ------- |
