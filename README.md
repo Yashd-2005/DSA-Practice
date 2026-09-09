@@ -40,6 +40,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yashd-2005/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/Yashd-2005/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Yashd-2005/DSA-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3871-count-commas-in-range-ii](https://github.com/Yashd-2005/DSA-Practice/tree/master/3871-count-commas-in-range-ii) |
 ## Number Theory
 |  |
 | ------- |
