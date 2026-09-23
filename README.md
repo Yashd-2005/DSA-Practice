@@ -25,6 +25,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/Yashd-2005/DSA-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Yashd-2005/DSA-Practice/tree/master/0875-koko-eating-bananas) |
 | [1550-three-consecutive-odds](https://github.com/Yashd-2005/DSA-Practice/tree/master/1550-three-consecutive-odds) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Yashd-2005/DSA-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yashd-2005/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Yashd-2005/DSA-Practice/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Yashd-2005/DSA-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -52,6 +53,7 @@
 | [0076-minimum-window-substring](https://github.com/Yashd-2005/DSA-Practice/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/Yashd-2005/DSA-Practice/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Yashd-2005/DSA-Practice/tree/master/0242-valid-anagram) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Yashd-2005/DSA-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Yashd-2005/DSA-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/Yashd-2005/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yashd-2005/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -155,6 +157,7 @@
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Yashd-2005/DSA-Practice/tree/master/0076-minimum-window-substring) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Yashd-2005/DSA-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Yashd-2005/DSA-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Yashd-2005/DSA-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Linked List
@@ -180,9 +183,14 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Yashd-2005/DSA-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Yashd-2005/DSA-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Yashd-2005/DSA-Practice/tree/master/0875-koko-eating-bananas) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Yashd-2005/DSA-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Yashd-2005/DSA-Practice/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Ternary Search
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Yashd-2005/DSA-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Yashd-2005/DSA-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->
