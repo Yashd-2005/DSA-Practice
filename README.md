@@ -154,6 +154,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Yashd-2005/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Yashd-2005/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/Yashd-2005/DSA-Practice/tree/master/0443-string-compression) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Yashd-2005/DSA-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Yashd-2005/DSA-Practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/Yashd-2005/DSA-Practice/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Yashd-2005/DSA-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -171,6 +172,7 @@
 ## Stack
 |  |
 | ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Yashd-2005/DSA-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Yashd-2005/DSA-Practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
@@ -197,4 +199,8 @@
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Yashd-2005/DSA-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Yashd-2005/DSA-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
