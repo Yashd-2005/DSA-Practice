@@ -118,6 +118,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Yashd-2005/DSA-Practice/tree/master/0011-container-with-most-water) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Yashd-2005/DSA-Practice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Yashd-2005/DSA-Practice/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Quicksort
 |  |
@@ -155,6 +156,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Yashd-2005/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Yashd-2005/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/Yashd-2005/DSA-Practice/tree/master/0443-string-compression) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Yashd-2005/DSA-Practice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Yashd-2005/DSA-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Yashd-2005/DSA-Practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/Yashd-2005/DSA-Practice/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
@@ -174,6 +176,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Yashd-2005/DSA-Practice/tree/master/0020-valid-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Yashd-2005/DSA-Practice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Yashd-2005/DSA-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Yashd-2005/DSA-Practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
@@ -205,5 +208,6 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Yashd-2005/DSA-Practice/tree/master/0020-valid-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Yashd-2005/DSA-Practice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Yashd-2005/DSA-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
