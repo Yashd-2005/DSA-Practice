@@ -44,6 +44,7 @@
 | [2965-find-missing-and-repeated-values](https://github.com/Yashd-2005/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Yashd-2005/DSA-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Yashd-2005/DSA-Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Yashd-2005/DSA-Practice/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3871-count-commas-in-range-ii](https://github.com/Yashd-2005/DSA-Practice/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Yashd-2005/DSA-Practice/tree/master/3875-construct-uniform-parity-array-i) |
 ## Number Theory
@@ -120,6 +121,7 @@
 | [0011-container-with-most-water](https://github.com/Yashd-2005/DSA-Practice/tree/master/0011-container-with-most-water) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Yashd-2005/DSA-Practice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Yashd-2005/DSA-Practice/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Yashd-2005/DSA-Practice/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Quicksort
 |  |
 | ------- |
