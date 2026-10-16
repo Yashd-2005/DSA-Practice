@@ -45,6 +45,7 @@
 | [3345-smallest-divisible-digit-product-i](https://github.com/Yashd-2005/DSA-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Yashd-2005/DSA-Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Yashd-2005/DSA-Practice/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Yashd-2005/DSA-Practice/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3871-count-commas-in-range-ii](https://github.com/Yashd-2005/DSA-Practice/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Yashd-2005/DSA-Practice/tree/master/3875-construct-uniform-parity-array-i) |
 ## Number Theory
@@ -111,6 +112,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Yashd-2005/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yashd-2005/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Yashd-2005/DSA-Practice/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Recursion
 |  |
 | ------- |
@@ -130,6 +132,7 @@
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Yashd-2005/DSA-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Yashd-2005/DSA-Practice/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Database
 |  |
 | ------- |
