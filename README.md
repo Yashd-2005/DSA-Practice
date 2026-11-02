@@ -21,6 +21,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yashd-2005/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Yashd-2005/DSA-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Yashd-2005/DSA-Practice/tree/master/0169-majority-element) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Yashd-2005/DSA-Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Yashd-2005/DSA-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Yashd-2005/DSA-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Yashd-2005/DSA-Practice/tree/master/0875-koko-eating-bananas) |
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Yashd-2005/DSA-Practice/tree/master/0050-powx-n) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Yashd-2005/DSA-Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yashd-2005/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/Yashd-2005/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Yashd-2005/DSA-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -84,6 +86,7 @@
 | [0088-merge-sorted-array](https://github.com/Yashd-2005/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Yashd-2005/DSA-Practice/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Yashd-2005/DSA-Practice/tree/master/0242-valid-anagram) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Yashd-2005/DSA-Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Yashd-2005/DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yashd-2005/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Yashd-2005/DSA-Practice/tree/master/3731-find-missing-elements) |
