@@ -30,6 +30,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yashd-2005/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Yashd-2005/DSA-Practice/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Yashd-2005/DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Yashd-2005/DSA-Practice/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Yashd-2005/DSA-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/Yashd-2005/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yashd-2005/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -88,6 +89,7 @@
 | [0242-valid-anagram](https://github.com/Yashd-2005/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Yashd-2005/DSA-Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Yashd-2005/DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Yashd-2005/DSA-Practice/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yashd-2005/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Yashd-2005/DSA-Practice/tree/master/3731-find-missing-elements) |
 ## Counting
@@ -129,6 +131,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Yashd-2005/DSA-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Yashd-2005/DSA-Practice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Yashd-2005/DSA-Practice/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Yashd-2005/DSA-Practice/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Yashd-2005/DSA-Practice/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Quicksort
 |  |
